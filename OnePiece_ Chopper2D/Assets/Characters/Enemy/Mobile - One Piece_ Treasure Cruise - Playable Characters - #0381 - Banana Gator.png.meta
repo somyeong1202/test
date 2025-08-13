@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 36e7830fdc47b8b4aa4a4dce2b3f0aec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 844
+        width: 215
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1032bda02c93e45bf4261d06647039
+      internalID: 336103188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 843
+        width: 215
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd80341593ca74ead831f963cdb368
+      internalID: 1717884646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 843
+        width: 243
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2667084cba4b048a7ccd0cd47961b5
+      internalID: 1970690689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 970
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb96d2d7721b55848ad81fd0cffdcda8
+      internalID: -1279535296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 651
+        width: 215
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026fafb5bd46e8e4ca97e7196dfb2ca0
+      internalID: 1507475105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 683
+        width: 243
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8f460cf4a9de4aa5649c48c8cdc07
+      internalID: -1428444962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 683
+        width: 237
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4acf4575b12cf64ca98cb86cb9797df
+      internalID: -1965882564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 460
+        width: 209
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad138c65b3f45499bd70c044f4c7e1
+      internalID: -1131259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 608
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465256cec5529a4c994084022f2c270
+      internalID: 1412984319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_9
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 608
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab33c3859353248a1ce8cdfea44bd9
+      internalID: 824655937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 642
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfefc9134e509040865a8fc58f94012
+      internalID: -1355877061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 608
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40841e3df198fea46b8143722173ca54
+      internalID: -157863721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_12
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 572
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2721a65b88a5d0841abf121a87ff9823
+      internalID: 284279111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 504
+        width: 247
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddd4e2b25ba0941a9cce4009741792
+      internalID: -42498266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 512
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997f04e5bc738f4782c99b510118070
+      internalID: -217991983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_15
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 577
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c7c5b975ed2342865147f2bc1d7ad
+      internalID: 547015917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 445
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304e65373b819f4cbfbb869a1af0270
+      internalID: -270360069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 246
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9384b2e6a05e6c4c88ae2b5e5336e59
+      internalID: -452106782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 257
+        width: 246
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f0337b576377c438180ab7ba025356
+      internalID: -1201982118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_19
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 225
+        width: 253
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccc8cec7bded0945b0c298aef962ee7
+      internalID: 1252018648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 227
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c01d879466b8841ba22a0b75c9f96d
+      internalID: 1584228842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 14
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98c9d0e8b27c54f891637633a3038f
+      internalID: 305446007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 14
+        width: 227
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192e40d27599ed48aa851fa1a768936
+      internalID: -1366664344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana
+        Gator_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 28
+        width: 227
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f307a4efe0ed48a1d9c7dbeed824e
+      internalID: 512879040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_0: 336103188
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_1: 1717884646
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_10: -1355877061
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_11: -157863721
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_12: 284279111
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_13: -42498266
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_14: -217991983
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_15: 547015917
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_16: -270360069
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_17: -452106782
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_18: -1201982118
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_19: 1252018648
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_2: 1970690689
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_20: 1584228842
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_21: 305446007
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_22: -1366664344
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_23: 512879040
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_3: -1279535296
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_4: 1507475105
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_5: -1428444962
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_6: -1965882564
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_7: -1131259939
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_8: 1412984319
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0381 - Banana Gator_9: 824655937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

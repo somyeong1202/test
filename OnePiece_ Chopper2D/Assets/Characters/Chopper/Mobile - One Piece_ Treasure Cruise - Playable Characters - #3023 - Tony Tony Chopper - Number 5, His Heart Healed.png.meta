@@ -1,0 +1,2082 @@
+fileFormatVersion: 2
+guid: 28d99763b1b186b43ae249430d5dfb82
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 856
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9fc30608b26564a9a132a7d6961a19
+      internalID: -2011535645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 856
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b1775e18ab12489857bc80ee5990e
+      internalID: -355887660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 856
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2332307cff1028547ad44ff79afaae38
+      internalID: 1185183095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 856
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab5d49076201c4cb331b12da00e11d
+      internalID: -1978800090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 856
+        width: 125
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a7318845b6244aa9f24f78b9c8353
+      internalID: -1537633762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_5
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 856
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe29545cbe66b04cb2075d40495993b
+      internalID: -760614211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_6
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 968
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25328e17119af5e438729720079313d7
+      internalID: 85635772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 981
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492483e84c10e04f847caf8fe7a12fd
+      internalID: -2028527147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 968
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281fc7ab16b2c314eae103e070718ca9
+      internalID: 1533175770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_9
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 888
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49a52c80a9043242a775a43f92d5c7f
+      internalID: 1151054900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 888
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da2d6c2768b2a4ea829d7ce2b6dac1
+      internalID: -86509570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 680
+        width: 136
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec05037389dfce4caa1346fcfa82395
+      internalID: 2016117129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 680
+        width: 136
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387160e56043b8643b86978977e14914
+      internalID: -633730959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 680
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863bd46e333f38842bd7173c7d6fe3bc
+      internalID: -1169378562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 680
+        width: 122
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440217eeb5089b459fdb5c8f61c04a7
+      internalID: -1352797891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 687
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee32edff31b6a4ea93670866fbb2df
+      internalID: -1193080178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 686
+        width: 111
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e960e558f0da4490c8befa32d2095
+      internalID: -1874697999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 787
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ad23caed45fba4aa12be66cee4f62a
+      internalID: -1027959549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 784
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e206c71e887e499c1e42f8e64fe36
+      internalID: 1130254433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_19
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 694
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94782f1a49b1e144c94d26b44c1fc3ba
+      internalID: -400111047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_20
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 761
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ce4b9d40808254fa52282d5a84268f
+      internalID: 1362525327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_21
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 680
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfb7319b9f89c46be4b40fe68bc749
+      internalID: -912387132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 532
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a54df577f4b5264983250b1b199e7df
+      internalID: -506349762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_23
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 646
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f184863f805cd7408167c8093eacf6f
+      internalID: -467784780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 662
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3561c0fa6f11e848bba70c6f7795776
+      internalID: 1688497279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 532
+        width: 122
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52a82021dd0fb40beba5ac32e601f7
+      internalID: -1419110336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_26
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 652
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72706c90ef29b64ea1eb6848d3c3a96
+      internalID: -1775343487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_27
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 646
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a2724ff8b7b224d9cd023cf702e31b
+      internalID: 1644635639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 646
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441f878ae6020d49ac587663d39c10e
+      internalID: 1544546277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_29
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 639
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea386eee05d064d4ea51bc435bd002d6
+      internalID: -1674982315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_30
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 640
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c667861e86d47f2439be24edf49e3d4c
+      internalID: 1634692964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_31
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 629
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a2bf10d776ef47abd1e434ffd5fe7
+      internalID: -964752109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_32
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 629
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dad701a414239438cef61707062018
+      internalID: -282137242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_33
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 623
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94257441279e4542b4557ed35cbb1c8
+      internalID: -807001449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_34
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 628
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39694548d40c347a135491352acfcf
+      internalID: 1985445791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_35
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 602
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6abd6b9f12b44e498d436b7e72010a1
+      internalID: -1087365547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_36
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 610
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff77c7dc2a1296498e276240761e59f
+      internalID: -212934307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_37
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 613
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907bda888e9729c4a85736238868ce26
+      internalID: -538711841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 599
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ee73bcf6245b449f5ef12496ce8ee
+      internalID: -901622879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 592
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f52e37ecb3294e96cccf2567be51d
+      internalID: 1767373865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 592
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8975315414ff2d442a5c221a91988cca
+      internalID: -1286475198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_41
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 574
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f964a0c9339622140b5ebcb95244dfa5
+      internalID: 1610135413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_42
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 559
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e51c7df2817d748b94f57f8df84370
+      internalID: 19705391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_43
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 553
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60a1883aebf4094699f4bbf50133906
+      internalID: 2004041315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_44
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 548
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5618ee627c98442a5bd174dcff3e36
+      internalID: -1707329344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_45
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 533
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f375f77b83125eb439ca971fba59284d
+      internalID: -218787129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_46
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 520
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879f35d5e557564c8abbdc5b1a52ed5
+      internalID: -1972570099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_47
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 541
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e2818b6c73fe4abe6ead650882c84
+      internalID: -1093279129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_48
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 533
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fba5aef09ed34db3c5cc20d34074b
+      internalID: 2128746908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 522
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd9ae7202b6304ebe43cbc3f2e5df7
+      internalID: 1156820791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 346
+        width: 122
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086b40acda65254bb73a72069dc439c
+      internalID: 667250571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 363
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63b52203e9f9a40a6fb768fe969219
+      internalID: -668267485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_52
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 379
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b924059f7e08434e8091f14baf74844
+      internalID: 593408559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_53
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 435
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6527d49b2245b604baeb829ba94cb74c
+      internalID: 332158881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 178
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d7fbb6f78245498fcf2f3c66f3bd5
+      internalID: -736509789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_55
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 180
+        width: 102
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dfaf14041deac4d84ecd4d4fe9c31c
+      internalID: -240959971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_56
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 177
+        width: 122
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b57b81ee750a4e845741fba33efd7
+      internalID: -177273479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 272
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b685c65d833aa247996994f7de89006
+      internalID: 670904609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 273
+        width: 143
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d000abe333c7a44895aff7552a849e
+      internalID: -594221534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_59
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 256
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1c25646e7af241b614dca9af8128b
+      internalID: -1099022030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_60
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 241
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd06a540c500ad40ae598ee5f99e459
+      internalID: -1259415720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 147
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d177709e8c02b448a756dee4f720c1
+      internalID: 1814548307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_62
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 148
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23501467def8b7940aec1484d53e6589
+      internalID: -750927742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 204
+        width: 110
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81db5dde9a998cb40b3a8bd2515599fa
+      internalID: -376531940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_64
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 166
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b5fef95ba29a4785b1d4d780e754c
+      internalID: -1391978487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_65
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 189
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74003e2d21f4e49807d7215646c59b
+      internalID: 7965428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_66
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 148
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391e7130a42e5a42b508394e3f8436a
+      internalID: -1407848109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_67
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 148
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399a65a47ae532b4eb2ba773250de977
+      internalID: -1138141820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_68
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 146
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff117a8af7b6474fb448589f8d845cf
+      internalID: 97895310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_69
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 182
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48fecf14f2720f45911e1e484d13bab
+      internalID: -938897871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_70
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd51dd861b9a4b4ab967de3f124c7bc
+      internalID: -2006117099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 122
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d10654bc3b7f42b7b05e87adf6351
+      internalID: -820946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_72
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 123
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69776c0e0041f454baecec2c189d1f8c
+      internalID: 212052936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_73
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 147
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221ed4aa2984f584fa2657383018baef
+      internalID: -2038251784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_74
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 145
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2ee1eeaa38734e8a33588d572c32c
+      internalID: -92379202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 158
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd01c250520a66449944eb33bbf8c24
+      internalID: -214837730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_76
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 149
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee75eab36c54d44ebf07ffe571c6307
+      internalID: 1543813345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c748ca130080f474bbb7aaf2be5f7fdc
+      internalID: 750969936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_78
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 138
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da5784c9e28e8448b74b4fb82e6084
+      internalID: -1476981914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_79
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 123
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8775227166a77074f96e9d9b047bcae7
+      internalID: 385910117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_80
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 125
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa97963b2142304391681b6a1bb5588
+      internalID: 92705805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_81
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 10
+        width: 153
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef87d846296e514f8acc5c311f5c866
+      internalID: 1282148436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_82
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 10
+        width: 164
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7857aa30d49cb14faaeaef84ea3bf92
+      internalID: -1786556424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_83
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 8
+        width: 163
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3561f79304c014c8def8b592669d36
+      internalID: 630493382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony
+        Tony Chopper - Number 5, His Heart Healed_84
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 16
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb29d7a9d46fef44f93259be146bb1e1
+      internalID: 1605299024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_0: -2011535645
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_1: -355887660
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_10: -86509570
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_11: 2016117129
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_12: -633730959
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_13: -1169378562
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_14: -1352797891
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_15: -1193080178
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_16: -1874697999
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_17: -1027959549
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_18: 1130254433
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_19: -400111047
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_2: 1185183095
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_20: 1362525327
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_21: -912387132
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_22: -506349762
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_23: -467784780
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_24: 1688497279
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_25: -1419110336
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_26: -1775343487
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_27: 1644635639
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_28: 1544546277
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_29: -1674982315
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_3: -1978800090
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_30: 1634692964
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_31: -964752109
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_32: -282137242
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_33: -807001449
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_34: 1985445791
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_35: -1087365547
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_36: -212934307
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_37: -538711841
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_38: -901622879
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_39: 1767373865
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_4: -1537633762
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_40: -1286475198
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_41: 1610135413
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_42: 19705391
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_43: 2004041315
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_44: -1707329344
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_45: -218787129
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_46: -1972570099
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_47: -1093279129
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_48: 2128746908
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_49: 1156820791
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_5: -760614211
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_50: 667250571
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_51: -668267485
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_52: 593408559
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_53: 332158881
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_54: -736509789
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_55: -240959971
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_56: -177273479
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_57: 670904609
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_58: -594221534
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_59: -1099022030
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_6: 85635772
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_60: -1259415720
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_61: 1814548307
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_62: -750927742
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_63: -376531940
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_64: -1391978487
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_65: 7965428
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_66: -1407848109
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_67: -1138141820
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_68: 97895310
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_69: -938897871
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_7: -2028527147
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_70: -2006117099
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_71: -820946
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_72: 212052936
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_73: -2038251784
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_74: -92379202
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_75: -214837730
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_76: 1543813345
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_77: 750969936
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_78: -1476981914
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_79: 385910117
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_8: 1533175770
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_80: 92705805
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_81: 1282148436
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_82: -1786556424
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_83: 630493382
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_84: 1605299024
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #3023 - Tony Tony Chopper - Number 5, His Heart Healed_9: 1151054900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

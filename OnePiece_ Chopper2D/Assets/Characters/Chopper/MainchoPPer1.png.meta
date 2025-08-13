@@ -1,0 +1,2217 @@
+fileFormatVersion: 2
+guid: 172dd376698532b468db8a3b7c157852
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainchoPPer1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 855
+        width: 124
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff09e5842152c734591b4bafb132af25
+      internalID: 196954755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 855
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e0ff453bbfa8498eed51bf03527bc
+      internalID: 2083771678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 855
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b278b15e57cb2f4889b3a6de9def430
+      internalID: 2016733164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 855
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d39ce363877440b12ae581cb30e98
+      internalID: -496852757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 854
+        width: 118
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544709132b802b4ab33036b732b3e3a
+      internalID: -1784253515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_5
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 854
+        width: 117
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0b5c87940e7a47ba54a2c289ee4da
+      internalID: -1861056611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 618
+        width: 106
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d553a3017c71247bf0a621fd9b9fff
+      internalID: 622726722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 618
+        width: 106
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99836820f65aa8a4b8b52bae90802bee
+      internalID: 439496732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 618
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6a72dc2e611140bf3b2c5875a31a5
+      internalID: 1112389186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 670
+        width: 117
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd8bffc54ccaa43b9f7a29adc5fd8e
+      internalID: -298400606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_10
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 678
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156e2cfd65e5a44c97301cef13244d7
+      internalID: 1619979893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 678
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7620c5f1bf320843befde50a454ad94
+      internalID: -1296276814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 444
+        width: 117
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227cb2da45afc1a44808e34f2a45a31c
+      internalID: 1224198344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 384
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e9318e4bc18f47af950a3bb993353
+      internalID: -1483307553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 394
+        width: 106
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc081f7e571d2648a52259ccd537212
+      internalID: 781704705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 394
+        width: 106
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d862c4ebe06ca640a450615819e281c
+      internalID: 895188235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_16
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 415
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5ce188baf673439ff6e4854341093
+      internalID: -1902993374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_17
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 443
+        width: 104
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0f88aab31c7e4987dfde935b8103a
+      internalID: -152644592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1a261f918a6f428330935b117c486
+      internalID: 1844720533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 316
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad8082184c9fa24fa4e8a223a9cb134
+      internalID: 416986535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 296
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01df5324bec64f409d227bcb5a9738c
+      internalID: -297425949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 275
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39f45d495e92241ad497c05b444dfe
+      internalID: -1601753497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 256
+        width: 131
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464d40d0a7de1441bf3277caac8e3c4
+      internalID: -1734628133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 260
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027103f9f2e7d1e44bf9487e58faf04f
+      internalID: -971108594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 239
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804d5d1d7d8603442a576bbd84abacb5
+      internalID: -596153451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_25
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 362
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469408bbc52153f4d99ef3fa9097a84c
+      internalID: -537654472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 302
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66291205d274a479252c1da3c0ebd6
+      internalID: 1864617887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 302
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de930f78dd0e2bb43b516807fa9ad0f9
+      internalID: -408731740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_28
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 338
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7bf428c519d940b505432ed9422ba
+      internalID: -306230337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7da845761eef54aa8483eb1217a532
+      internalID: -2052670058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 204
+        width: 117
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29667383a1dcd47bc5e505071b4168
+      internalID: -1257472748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d0a93d1608304cbd8191721a84695
+      internalID: 823540179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_32
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 297
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad402e4fad3c04cb2c809ca2a72538
+      internalID: 901488678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53903c59616e134e899a03a63413246
+      internalID: -1563961483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 307
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19a0cabd10139438546f798a03c334
+      internalID: -1212691033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 284
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34f1113b0ce5b4687ae44624bed62c
+      internalID: 1402375775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 264
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a4f2bd0233214d8be9d5eb16dab3f
+      internalID: 550233434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 280
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77320473529683a4780694e9482f2dd8
+      internalID: 1829486105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_38
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 271
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371d1d183432d4a4a81a803661881732
+      internalID: -1591032288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_39
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 255
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57922974ca9fc00478205841d9f1e453
+      internalID: 1934499003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 270
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f800b9d7cadf418148be40868f74b
+      internalID: -67987615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 265
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44d9db68ce791c488a474e1688e0d65
+      internalID: -1547446960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_42
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 264
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfad8cb3d0e5f4e89e00df492cf06e
+      internalID: -575573190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_43
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eef5ffa2cf39dc41a1495e47448e1fb
+      internalID: 674033989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_44
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51fb7781a3ad234b989091d6f964646
+      internalID: -20323844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 272
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998b06cd36b08b14f93b5b9d737a14ac
+      internalID: 1922330890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 237
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a1a1d85f50274abbbc12d5af69501
+      internalID: 1187889622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b777b55d5bf94098ddf350247f56f
+      internalID: 1491759290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 242
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabebaa8c7e33204eaeb1e16c2535fb6
+      internalID: 183357616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 247
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424087c75cfed6640a8d4ee2a51da583
+      internalID: -706447613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 257
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392fde652a138844915ce1b02979a90
+      internalID: -1490726673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 251
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09fafb75640534babd2f4a0c4a00b5
+      internalID: -1009234517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 242
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f35717bf2a1c64f8715f9c804d941c
+      internalID: 842939700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 250
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc476ee0a9cf2419350f64085cd642
+      internalID: -1970261290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_54
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 251
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab44c78ae18714d99e859851557d75
+      internalID: -1093124423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 246
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee2cc765007d04d91060a6e938bbfb
+      internalID: -1889838407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 246
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0a01bcd9fa1e4499c723766433d74
+      internalID: -144716747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_57
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 237
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97aa2c830be62479f84c1831c84e18
+      internalID: -792352881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 220
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d786661a12f007d4d9bfd613a2cf180e
+      internalID: 434947307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 210
+        width: 11
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49838247239748940ad8143d0a2105f5
+      internalID: 1861815974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 220
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c9ad3769a49cf449075e57c6c856dc
+      internalID: -1987634792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db423f4dab71d6f47821ca963cf7d513
+      internalID: -1700979581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_62
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 231
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c976b3aa06c8d234eb2a68c1e2337a16
+      internalID: -320755436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a44f22791b61f4491c2559847ad8fd
+      internalID: 593787602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 210
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58616e9cf297c8647b6e34bfb203a0dc
+      internalID: -987079674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_65
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 239
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dca09ee05db944d8a583f5ede984a2
+      internalID: 10436551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 231
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e7719dfa1a1441a1e27ce54df4bd3
+      internalID: 197948018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0096b6001a2a2b4b8e8b803d282cc80
+      internalID: 643963195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 210
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3699fc99904e440b59cd069e94b57c
+      internalID: 1218896474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 212
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d492dd14374a448a6ae015babe377
+      internalID: 1087420558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 210
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8585e03c84cd904ea6b48288c7538ec
+      internalID: 1873698817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 220
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4556e5afffe19c4b88674caf6f1cf44
+      internalID: 1514011269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_72
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 221
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a972d363c566418df664c72245d46
+      internalID: -2072214784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_73
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 188
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcee53c7a0d6fa94097eebdd686f1e62
+      internalID: 312939995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_74
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 205
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f24663a54122b439a6a2235116842e
+      internalID: 853955564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c18b97d5ca0f4db3cd7df6bba72f8
+      internalID: 1000053132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 176
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59204966658dd2d40b2298c847d01abd
+      internalID: -1237570725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_77
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 14
+        width: 182
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc79b971fd9ee4099ffc9ceefea4e3
+      internalID: 747508336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_78
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 163
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71c02677ec6eb429f60983076581d2
+      internalID: 1048410645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_79
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 148
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8d2cfee07bb84f8d41c7054015451
+      internalID: -1348509112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_80
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 31
+        width: 102
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbc19e8c5a0ddd4da2e272d70d957fc
+      internalID: -1014893649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_81
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 138
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0e2189c989cb346a0a9156438bb84e
+      internalID: -1308687294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_82
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 103
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b7f9c16091c9d40a74bbf3c85c9f41
+      internalID: 1229435674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_83
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 117
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96dc8d6e53e36d41b1b4be9944edf4a
+      internalID: -1522275658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_84
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 125
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9460f486208c47bbab4d3a898bac6
+      internalID: -1108968649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 131
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf8ccb808cdbf49ba27dc681036a93
+      internalID: -207314774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_86
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 40
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f85cabc34ed8440be10c91388ee6ac
+      internalID: 297012376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_87
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 67
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab8a3021d3406440b6b420c4aa98094
+      internalID: -1882460060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_88
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 17
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5d8a8c750c7b4c812bf552cff167b
+      internalID: -897823381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 65
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5e66d32d3a2174589062e0e5667322
+      internalID: -2007885926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_90
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac4ec362ae09448a7fbc54a013e6ec
+      internalID: 1712180128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_91
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee9cfdb603b1049812af9ea61575de
+      internalID: 990140239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_92
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 92
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3896b13176241408d97957aeececf7
+      internalID: 72504220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_93
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 47
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a5aa80f625d545acb6756d1e4234a
+      internalID: 1274975286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainchoPPer1_94
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 84
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b983b267967128439d4030666d0b83f
+      internalID: 1447162024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainchoPPer1_0: 196954755
+      MainchoPPer1_1: 2083771678
+      MainchoPPer1_10: 1619979893
+      MainchoPPer1_11: -1296276814
+      MainchoPPer1_12: 1224198344
+      MainchoPPer1_13: -1483307553
+      MainchoPPer1_14: 781704705
+      MainchoPPer1_15: 895188235
+      MainchoPPer1_16: -1902993374
+      MainchoPPer1_17: -152644592
+      MainchoPPer1_18: 1844720533
+      MainchoPPer1_19: 416986535
+      MainchoPPer1_2: 2016733164
+      MainchoPPer1_20: -297425949
+      MainchoPPer1_21: -1601753497
+      MainchoPPer1_22: -1734628133
+      MainchoPPer1_23: -971108594
+      MainchoPPer1_24: -596153451
+      MainchoPPer1_25: -537654472
+      MainchoPPer1_26: 1864617887
+      MainchoPPer1_27: -408731740
+      MainchoPPer1_28: -306230337
+      MainchoPPer1_29: -2052670058
+      MainchoPPer1_3: -496852757
+      MainchoPPer1_30: -1257472748
+      MainchoPPer1_31: 823540179
+      MainchoPPer1_32: 901488678
+      MainchoPPer1_33: -1563961483
+      MainchoPPer1_34: -1212691033
+      MainchoPPer1_35: 1402375775
+      MainchoPPer1_36: 550233434
+      MainchoPPer1_37: 1829486105
+      MainchoPPer1_38: -1591032288
+      MainchoPPer1_39: 1934499003
+      MainchoPPer1_4: -1784253515
+      MainchoPPer1_40: -67987615
+      MainchoPPer1_41: -1547446960
+      MainchoPPer1_42: -575573190
+      MainchoPPer1_43: 674033989
+      MainchoPPer1_44: -20323844
+      MainchoPPer1_45: 1922330890
+      MainchoPPer1_46: 1187889622
+      MainchoPPer1_47: 1491759290
+      MainchoPPer1_48: 183357616
+      MainchoPPer1_49: -706447613
+      MainchoPPer1_5: -1861056611
+      MainchoPPer1_50: -1490726673
+      MainchoPPer1_51: -1009234517
+      MainchoPPer1_52: 842939700
+      MainchoPPer1_53: -1970261290
+      MainchoPPer1_54: -1093124423
+      MainchoPPer1_55: -1889838407
+      MainchoPPer1_56: -144716747
+      MainchoPPer1_57: -792352881
+      MainchoPPer1_58: 434947307
+      MainchoPPer1_59: 1861815974
+      MainchoPPer1_6: 622726722
+      MainchoPPer1_60: -1987634792
+      MainchoPPer1_61: -1700979581
+      MainchoPPer1_62: -320755436
+      MainchoPPer1_63: 593787602
+      MainchoPPer1_64: -987079674
+      MainchoPPer1_65: 10436551
+      MainchoPPer1_66: 197948018
+      MainchoPPer1_67: 643963195
+      MainchoPPer1_68: 1218896474
+      MainchoPPer1_69: 1087420558
+      MainchoPPer1_7: 439496732
+      MainchoPPer1_70: 1873698817
+      MainchoPPer1_71: 1514011269
+      MainchoPPer1_72: -2072214784
+      MainchoPPer1_73: 312939995
+      MainchoPPer1_74: 853955564
+      MainchoPPer1_75: 1000053132
+      MainchoPPer1_76: -1237570725
+      MainchoPPer1_77: 747508336
+      MainchoPPer1_78: 1048410645
+      MainchoPPer1_79: -1348509112
+      MainchoPPer1_8: 1112389186
+      MainchoPPer1_80: -1014893649
+      MainchoPPer1_81: -1308687294
+      MainchoPPer1_82: 1229435674
+      MainchoPPer1_83: -1522275658
+      MainchoPPer1_84: -1108968649
+      MainchoPPer1_85: -207314774
+      MainchoPPer1_86: 297012376
+      MainchoPPer1_87: -1882460060
+      MainchoPPer1_88: -897823381
+      MainchoPPer1_89: -2007885926
+      MainchoPPer1_9: -298400606
+      MainchoPPer1_90: 1712180128
+      MainchoPPer1_91: 990140239
+      MainchoPPer1_92: 72504220
+      MainchoPPer1_93: 1274975286
+      MainchoPPer1_94: 1447162024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
