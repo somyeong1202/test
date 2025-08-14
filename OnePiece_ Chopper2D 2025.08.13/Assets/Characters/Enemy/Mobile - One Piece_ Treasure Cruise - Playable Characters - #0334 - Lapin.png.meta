@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 08181f81ebe4a434195329d13bbed547
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 860
+        width: 103
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af7ae9629013a4181af2243fb160af
+      internalID: 836752649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 865
+        width: 111
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c226d540dfd0e54b8143c8ff783f6ef
+      internalID: -788295892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 855
+        width: 120
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfce2d86ded76a469c1a7eb2ed45963
+      internalID: 1583073117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 858
+        width: 143
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f8ba28367116c44889d9378af55a38
+      internalID: 1642237205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 878
+        width: 165
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05505854b5856a34c884217e71d6822d
+      internalID: 361958000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 971
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f7fe9bb0ec5a4d973c51f4fb4b23c
+      internalID: -736931184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 715
+        width: 106
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8df0b00f70f74469cc40a4f465a663
+      internalID: -535820152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 715
+        width: 107
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5cb97ea863e334e89a4be153b3e8b5
+      internalID: -50599899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 696
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbed8a517542b2844991801d2ebbf3e3
+      internalID: -326185330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 685
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c53ba3e6349e543abcb9cdcafe080b
+      internalID: 1035813966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 696
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d096578fb55b3cc4bb5040fe2e1c5ad8
+      internalID: -1177782817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 462
+        width: 94
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdfe7116f9f1224aade44255210648e
+      internalID: -1064310235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 318
+        width: 180
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b547525f844f4148955d88126929fae
+      internalID: 862652624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e6d5e097b73046bed81e3719a5ac3
+      internalID: 1498132003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 82
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7260170ce998164cb5a3daf8477d1e3
+      internalID: -1780685318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c13f0ef368a746840f3c2f08b45fe
+      internalID: -301728497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 24
+        width: 90
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da59ed8a63b062e4a889a02a6d314bfb
+      internalID: 260701811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 23
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf27918f7c7518489eb91ae68293a09
+      internalID: -1601009197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_0: 836752649
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_1: -788295892
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_10: -1177782817
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_11: -1064310235
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_12: 862652624
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_13: 1498132003
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_14: -1780685318
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_15: -301728497
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_16: 260701811
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_17: -1601009197
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_2: 1583073117
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_3: 1642237205
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_4: 361958000
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_5: -736931184
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_6: -535820152
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_7: -50599899
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_8: -326185330
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0334 - Lapin_9: 1035813966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

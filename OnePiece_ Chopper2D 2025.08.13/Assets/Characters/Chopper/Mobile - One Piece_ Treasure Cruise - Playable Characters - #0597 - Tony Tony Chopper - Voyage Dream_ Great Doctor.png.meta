@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: bdb6c32c71e24fd469ad34abc4047e7c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 838
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b54e63514bf94a89a621a104c12a1
+      internalID: -2086741910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 838
+        width: 131
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e7d45fc8bf09f419dc91883f9ce277
+      internalID: 1019762129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 838
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09c50d806951142ae7a0ac444a58b1
+      internalID: -1020766576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 838
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35651b96eaead694da06c6f2f900954c
+      internalID: -419438633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 838
+        width: 132
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b84f8abb565bff45b9b507e4d6f62a6
+      internalID: 1495538396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_5
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 838
+        width: 134
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead697e9465fdb1488e08d0dd8a99205
+      internalID: 1699856407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 646
+        width: 124
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b17e4b0c8a0ea408a4d10cd71e74bf
+      internalID: 1852791400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 646
+        width: 127
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d6542463697b4dab38bc046286f7e
+      internalID: -180777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 646
+        width: 124
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff6ad5f3afc176469eb822fea84fe70
+      internalID: -1833215106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 646
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f9db8acbca464288b2c7a181d3b5a
+      internalID: -1556986372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 646
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5852bc17ce0b284d95ac68237fab846
+      internalID: 1936824249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 646
+        width: 134
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303c23683c0b864591f0558f66278c2
+      internalID: -99714929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 522
+        width: 162
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08360a28ba3a28446937e1a200577d16
+      internalID: -1829146011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_13
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 522
+        width: 164
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f1cea957c651d4b953c6a01c9df999
+      internalID: -202222040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_14
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 645
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f263eec1d906ba64b9c087cdf226591f
+      internalID: -1307212938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_15
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 670
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae814571c5c4c564e85e2efab1dfa157
+      internalID: -1059045869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_16
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 644
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8690009c755f4024484d666ce56cbaf0
+      internalID: 1960359797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 454
+        width: 128
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf3e5eab0cf5c4da56800fd086913f
+      internalID: 2050404169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 460
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa382556bb3224d863749fbb0e63e7
+      internalID: 1467405486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 458
+        width: 122
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddd5b489626074f9b5c2f49c125d76
+      internalID: -1006923654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 482
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b374faf45abd2a4aa849a4f9e33646a
+      internalID: -984710656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 482
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f46589d6d1c84caa5832e2c64a873
+      internalID: -1600587823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 586
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1a61d585f6914682d90c4acb98730
+      internalID: 1451943478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_23
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 592
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113866c9d643b9440991cb646d73fd40
+      internalID: -1028873546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_24
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 556
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6db0f3b0cc6184d8fc96f1bb8b28fa
+      internalID: -502353901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 323
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41b0173b763e0847a57acfc95c54ca9
+      internalID: -474093067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 303
+        width: 327
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958884a90ef938642ada021b662d8856
+      internalID: 2095401537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 292
+        width: 189
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9d80ae113d214d9991a1f7f6bba08
+      internalID: 1749555752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_28
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 370
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97578041aba668241b972e280e6d068d
+      internalID: -1188871974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_29
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 314
+        width: 218
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c216d45864e261448e62db1e8310872
+      internalID: -774600838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_30
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 265
+        width: 230
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6243077c68714aab3a8ce77a5f288
+      internalID: -95874433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_31
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 265
+        width: 230
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb332cdaa273dd449d816d5f39cdbd6
+      internalID: -513548965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 185
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b09a5f589ae549a1b07faabada5a6
+      internalID: -1102501705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 134
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa66348d2e3f2499cb76a1bcf3a8f2
+      internalID: -1772806234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 16
+        width: 145
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c42bfb3e2e584489234abea222b9e
+      internalID: -1923620203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 16
+        width: 133
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e818bb49243e045bca50f6b647d2fb
+      internalID: -1285001782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_36
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 26
+        width: 139
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ed52e83b721640bbea6067cf9662d
+      internalID: 704529348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_37
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 26
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed419eaa6c7a9b24b87ebe76157389d2
+      internalID: -1916027810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony
+        Tony Chopper - Voyage Dream_ Great Doctor_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 26
+        width: 226
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f06a598bd6c0a54f80e129413ecba43
+      internalID: 244666488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_0: -2086741910
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_1: 1019762129
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_10: 1936824249
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_11: -99714929
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_12: -1829146011
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_13: -202222040
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_14: -1307212938
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_15: -1059045869
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_16: 1960359797
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_17: 2050404169
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_18: 1467405486
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_19: -1006923654
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_2: -1020766576
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_20: -984710656
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_21: -1600587823
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_22: 1451943478
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_23: -1028873546
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_24: -502353901
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_25: -474093067
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_26: 2095401537
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_27: 1749555752
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_28: -1188871974
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_29: -774600838
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_3: -419438633
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_30: -95874433
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_31: -513548965
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_32: -1102501705
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_33: -1772806234
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_34: -1923620203
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_35: -1285001782
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_36: 704529348
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_37: -1916027810
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_38: 244666488
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_4: 1495538396
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_5: 1699856407
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_6: 1852791400
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_7: -180777956
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_8: -1833215106
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0597 - Tony Tony Chopper - Voyage Dream_ Great Doctor_9: -1556986372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

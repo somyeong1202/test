@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e2b310d021d26494dbc22af52879b7ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 880
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa127cf5b8dee45aab3af32f781d28
+      internalID: 1124490419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 880
+        width: 136
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce72520659f3bb46a94479f69602ef4
+      internalID: 877392962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 880
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02df3a20be67224d8f14bd251c6bd03
+      internalID: -1326865560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 880
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9144e2dba18ebc34e83f1d0be306eab0
+      internalID: -1242546169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 880
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695585cecbdd7b14386aeceecbd21ca4
+      internalID: 1384399833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 880
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8bb4b6063cd34cbcb3b61d9a4ed18
+      internalID: 1950188230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 652
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e03c35fc94b24eb09482a43ed08e5
+      internalID: -1247290206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 647
+        width: 147
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdc255bea55bf148ab254c806acb841
+      internalID: 2016367769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 657
+        width: 190
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6221ee02b56111d47bd41e27aa3a0f4f
+      internalID: -240775196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 657
+        width: 190
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2a188c7435e54498e8bb92e2b201b3
+      internalID: 2052587708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_10
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 715
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5ec93b40678b4faf30dfa03ab43cc
+      internalID: 137620128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 427
+        width: 157
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556d14c04cf6434780f34aa0c1de1c4
+      internalID: 2045825510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 427
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f216850d3eb015445bb8ae4a50e5fc50
+      internalID: -1124941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 444
+        width: 142
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046a8bd1d53fb1408f91fa2809e87af
+      internalID: 1897260457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 444
+        width: 156
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626b0452d27f874ca59499da5a97586
+      internalID: -560816032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_15
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 426
+        width: 197
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ca164d8e7c1148b3d2b9cf12439bd
+      internalID: -1080857451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 202
+        width: 171
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae75f3ca0ecd494da9d9cba0e9eb063
+      internalID: 1291690155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army
+        Wolf_18
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 202
+        width: 209
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23becb6bbd603b54ab625f3a60da7736
+      internalID: -998351747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_0: 1124490419
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_1: 877392962
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_10: 137620128
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_11: 2045825510
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_12: -1124941900
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_13: 1897260457
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_14: -560816032
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_15: -1080857451
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_16: -1028815609
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_17: 1291690155
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_18: -998351747
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_19: 982017465
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_2: -1326865560
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_20: 707964109
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_21: -1648230215
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_22: -2063367240
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_3: -1242546169
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_4: 1384399833
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_5: 1950188230
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_6: -1247290206
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_7: 2016367769
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_8: -240775196
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #1155 - Army Wolf_9: 2052587708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

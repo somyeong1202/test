@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 1df99b561415b3d4ebe772b9b333eaed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 838
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0569fce11ff5efd44a764a762360a357
+      internalID: 1771988231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 838
+        width: 118
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a68516b31c93ac47810e63ea2109654
+      internalID: 1047103698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 838
+        width: 136
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819cf6d56d459d4419fd6cb10b5bb090
+      internalID: 798973163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 838
+        width: 143
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc3dd2e73ef748438e68823d9b37a10
+      internalID: 699204338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 838
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3c3de7e11aa04e9400b9c925b9720
+      internalID: -1967739646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_5
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 838
+        width: 149
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47af1812a84df0a418fdd0b3293a2ea2
+      internalID: 795220025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 970
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca4b76c8f24c84fbcb4839f5103e74
+      internalID: -1466219302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 848
+        width: 12
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0572c20775971345b599a0f53bb0162
+      internalID: 1314484397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_8
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 841
+        width: 20
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220fdd1e26ed3c4448340fe3dec354d2
+      internalID: -1356604511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 837
+        width: 6
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c57ae7fe0fcd64c81e873440063fa9
+      internalID: 716958593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_10
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 866
+        width: 8
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953b2f35f71a3346bcef49d590acfa2
+      internalID: 1659837254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 898
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543aad03392ffc148aadf7f8a674d0ff
+      internalID: -910097488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 610
+        width: 147
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2416e1879d06043807d32853cd9065
+      internalID: 1196984582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 625
+        width: 175
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c44f50b887ca649b94cb6dc455fa49
+      internalID: -483394657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 613
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf7cd3eb43ef44c8288c6e428a7f85
+      internalID: 938166954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 614
+        width: 116
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e617e753058e064ebf9df378bad2cdf
+      internalID: 1221951960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 614
+        width: 119
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc952d477d24949982bf52e6bce055
+      internalID: 35033433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_17
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 614
+        width: 139
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c0ae6e8c465742a2ff8f8fddf4364
+      internalID: -1651398202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 493
+        width: 91
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a1fb36524bae42a5601c6e8ecd3f7
+      internalID: 121214962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b0826dd294d142875e7998b99eda4
+      internalID: -1676478313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 399
+        width: 214
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad436bacd1278c740bc27b58a4cb5d37
+      internalID: -694022243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 445
+        width: 168
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e03d9f6ed8f6f43ab2b8d3d24b277d
+      internalID: 1883782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 445
+        width: 168
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af96df1516bc5bd43b43366b8fe0bf2b
+      internalID: -1780662196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 367
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f9afc3653839409cf5a70ea0498bc
+      internalID: 94735685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 381
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88ff82caabcd774ab1bfdef8f6d2730
+      internalID: -923385690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 454
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a96dd53afbb44da42dcc69b73a0f2
+      internalID: -819254593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 363
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6004f02b59ebc249af46e2d4f0994bb
+      internalID: -1862496674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 367
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc499e3c50fdb9040baf2996a6d910f2
+      internalID: -267605108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_31
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 222
+        width: 182
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5d9fb1f5a7ac489b54809967aab35
+      internalID: 1882272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 265
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951a4b7e29efd7c408b2bc5e11cbf613
+      internalID: 1838387518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_43
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 225
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ebac688edd834eb7e6c7113232c5d
+      internalID: 1677464949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 225
+        width: 181
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99f421264a6c04fa1fdbdaaef26730
+      internalID: -815039372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 261
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5636d9557f3a4ab8e9b8c60e29bf4
+      internalID: 287108318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 276
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea63739012e46ba4fa0a128dd883ecb1
+      internalID: 945350361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 225
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32a0c9c329fea4468b675a40d0ace0d
+      internalID: -694684402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 158
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b5e4b83caaf64d8e52e221b560853
+      internalID: 219931835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_62
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 33
+        width: 147
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0549220df4ad5c94291483a5aa889fea
+      internalID: -305645593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_63
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 33
+        width: 139
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffbe80b22c5b4b469e0a53568acdbc9
+      internalID: -303563639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_64
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 33
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c35ada9a252e74fba7122f2a724e47
+      internalID: -2100964413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_65
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 33
+        width: 150
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21472d6f38ed2ca46afe2ad63d11bc7a
+      internalID: -812825724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony
+        Tony Chopper - Voyage Log_ Straw Hat Pirates_66
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 32
+        width: 178
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab04feb78b9b224bab367292ca8c7e5
+      internalID: 74184847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_0: 1771988231
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_1: 1047103698
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_10: 1659837254
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_11: -910097488
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_12: 1196984582
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_13: -483394657
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_14: 938166954
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_15: 1221951960
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_16: 35033433
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_17: -1651398202
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_18: 121214962
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_19: -6817894
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_2: 798973163
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_20: -1676478313
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_21: -694022243
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_22: 1883782511
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_23: -1780662196
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_24: 1760282760
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_25: -676165697
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_26: 94735685
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_27: -923385690
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_28: -819254593
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_29: -1862496674
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_3: 699204338
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_30: -267605108
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_31: 1882272684
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_32: 286429019
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_33: 2058657685
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_34: -831997817
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_35: 1838387518
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_36: 95704093
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_37: 950510279
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_38: 2106726167
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_39: 1128342118
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_4: -1967739646
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_40: 1500881242
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_41: 1446763379
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_42: -1888878851
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_43: 1677464949
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_44: -815039372
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_45: 1769068347
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_46: -863187186
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_47: -28760780
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_48: 1871568966
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_49: 287108318
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_5: 795220025
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_50: -1387615960
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_51: -1458547647
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_52: 151307655
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_53: -981097250
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_54: 1826110258
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_55: 1427090506
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_56: -1844821546
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_57: 1637401361
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_58: 945350361
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_59: -694684402
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_6: -1466219302
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_60: -504726976
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_61: 219931835
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_62: -305645593
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_63: -303563639
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_64: -2100964413
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_65: -812825724
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_66: 74184847
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_67: -120028251
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_7: 1314484397
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_8: -1356604511
+      Mobile - One Piece_ Treasure Cruise - Playable Characters - #0596 - Tony Tony Chopper - Voyage Log_ Straw Hat Pirates_9: 716958593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
